@@ -1,4 +1,4 @@
-//Train's departure time
+//Train's departure time.
 //var time1 = new Date(2018, 1, 18);
 var departureTime = new Date(2018, 1, 18);
 
